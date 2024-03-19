@@ -1,2 +1,2 @@
-# Systeme,Script,Securite
-Système, Scripts et Sécurité
+# Systeme,Script et Securite
+Ce projet regroupe différente commande et script permettant l'admnistration d'un système linux
