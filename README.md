@@ -1,2 +1,11 @@
-# Systeme,Script et Securite
-Ce projet regroupe différente commande et script permettant l'admnistration d'un système linux
+# Commandes de recherche avancée
+
+# Compression et décompression de fichiers
+# Manipulation de texte
+# Gestion des processus
+# Surveillance des ressources système
+# Scripting avancé
+# Automatisation des mises à jour logicielles
+# Gestion des dépendances logicielles
+# Sécuriser ses scripts
+# Utilisation d’API Web dans un script
